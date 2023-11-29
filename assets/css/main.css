@@ -3929,10 +3929,7 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
 
 #main>footer {
 	text-align: center;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	text-align: center;
+
 }
 
 #main>.post {
